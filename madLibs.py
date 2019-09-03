@@ -1,0 +1,5 @@
+print("The {noun} was {verbing} down by the place when suddenly a {noun} fell from the sky.")
+print("The crash made everyone {verb}.")
+print("So {adjective} was this unexpected event, that it even made the {nouns} {past tense verb}.")
+print("By the time everything calmed down, it became clear that it had only happened in {noun’s} dream.")
+print("Upon awakening, the {adjective} day continued normally.")
